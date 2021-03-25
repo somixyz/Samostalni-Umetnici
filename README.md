@@ -1,6 +1,6 @@
 # Samostalni-Umetnici
 
 
-Studentski projekat: Web prezentacija za Ministarstvo Kulture Republike Srbije. Evidentiranje samostalnih umetnika, udruzenja u kulturi, i njihovih uplata.
+Student project: Web presentation for the Ministry of Culture of the Republic of Serbia. Recording of independent artists, cultural associations, and their payments.
 
-Zajedno sa kolegom Predragom Rajkovic
+Made together with colleague Predrag Rajkovic.
